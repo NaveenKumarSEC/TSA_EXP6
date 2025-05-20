@@ -108,19 +108,24 @@ plt.show()
 ## OUTPUT:
 
 Scaled_data plot:
+
 ![Screenshot 2025-04-26 160214](https://github.com/user-attachments/assets/206c1f8e-f49a-442d-a8ac-90df87b539e8)
 
 
 DECOMPOSED PLOT:
+
 ![Screenshot 2025-04-26 160230](https://github.com/user-attachments/assets/d8f4f3ab-24fa-4f47-a6f6-95f34e57c734)
 
 Test Prediction:
+
 ![Screenshot 2025-04-26 160249](https://github.com/user-attachments/assets/2ae48f9d-a629-4c21-a0ba-503ad51f8bf7)
 
 Model Performance metrices:
+
 ![Screenshot 2025-04-26 160308](https://github.com/user-attachments/assets/12f3c176-bc21-40e2-8d4d-4dae9f82a562)
 
 Final prediciton:
+
 ![Screenshot 2025-04-26 160348](https://github.com/user-attachments/assets/bd846a9c-07d7-4f86-8b57-e6a2f659b123)
 
 
